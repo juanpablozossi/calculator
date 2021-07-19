@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+}
+
+.container {
+  background-color: black;
+  margin: 0px;
+}
+
+.entry {
+  width: 250px;
+  height: 50px;
+  border-radius: 10px;
+  padding: px;
+  margin: 10px -1px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.calc-container {
+  width: 310px;
+  background-color: rgb(9, 114, 138);
+  border-radius: 20px;
+  padding: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.numBut {
+  height: 59px;
+  width: 59px;
+  margin: 10px 4px;
+  border: none 
+}
+
+.mathBut {
+  height: 59px;
+  width: 59px;
+  margin: 10px 4px;
+  border: none !important;
+}
+
+.equalBut {
+  height: 59px;
+  width: 126px;
+  margin: 10px 4px;
+  border: none !important;
+}
